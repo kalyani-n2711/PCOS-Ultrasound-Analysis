@@ -13,7 +13,7 @@ to identify structural and statistical differences between PCOS and non-PCOS ova
 - Exploratory Data Analysis (EDA) on clinical dataset
 
 ## 🛠️ Tools & Libraries
-- Python
+- Python used
 - NumPy, Pandas
 - Matplotlib, Seaborn
 - OpenCV
