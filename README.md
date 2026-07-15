@@ -21,7 +21,7 @@ to identify structural and statistical differences between PCOS and non-PCOS ova
 
 ## 📂 Dataset
 - Ultrasound images from Kaggle (Normal & PCOS)
-- Clinical dataset with hormonal, BMI, and lifestyle parameters
+- Clinical dataset with hormonal, BMI, and lifestyle parameters from Kaggle
 
 ## 📊 Results
 - PCOS ovaries show higher pixel intensity variation
